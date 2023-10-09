@@ -28,7 +28,7 @@ You can play the game by visiting the [GitHub Pages link](https://abhishek70007.
 
 ## Preview
 
-![Game Preview](screenshot.png)
+![Game Preview](https://drive.google.com/uc?id=1mJ4yKOYJC1eg9y3xIyGco-X4nN_YrOmj)
 
 ## Development
 
