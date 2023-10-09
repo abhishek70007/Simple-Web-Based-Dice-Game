@@ -1,4 +1,4 @@
-# Simple Web-Based Dice Game
+# Simple Web Based Dice Game
 
 Welcome to the Simple Web-Based Dice Game! This is a two-player dice game built with HTML, CSS, and JavaScript.
 
